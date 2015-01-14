@@ -1,0 +1,60 @@
+{eng:rus}
+{last name:фамилия}
+{this login is not registered, or incorrect data:Пользователь с таким логином не зарегистрирован или введены некорректные данные}
+{login:Логин}
+{password:Пароль}
+{user auth:Авторизация}
+{enter:Вход}
+{sign up:Зарегистрироваться}
+{user login must consist of numbers and letters of the latin alphabet:Логин пользователя должен состоять из цифр и букв латинского алфавита}
+{the password should consist of numbers and letters of the latin alphabet:Пароль должен состоять из цифр и букв латинского алфавита}
+{in the login must be only numbers and letters:В логине должны быть только цифры и латинские буквы}
+{in the login must be between 4 and 20 characters:В логине должно быть от 4 до 20 символов}
+{login must begin with a letter:Логин должен начинаться с буквы}
+{login can not be empty:Логин не может быть пустым}
+{password can not be empty:Пароль не может быть пустым}
+{photo:Фото}
+{this login is alredy registered:Пользователь с таким логином уже зарегистрирован}
+{first name:Имя}
+{last name:Фамилия}
+{patronymic:Отчетство}
+{birth date:Дата рождения}
+{locations:Место жительства}
+{marital status:Семейное положение}
+{single:Не состою в браке}
+{married:Состою в браке}
+{education:Образование}
+{experience:Опыт работы}
+{contacts:Контакты}
+{other:Дополнительно}
+{invalid date:Неправильная дата}
+{invalid date format:Неправильный формат даты}
+{date of birth must be in the format dd/mm/yyyy:Дата рождения должна быть в формате ДД/ММ/ГГГГ}
+{login is empty:Логин не заполнен}
+{first name is empty:Имя не заполнено}
+{patronymic is empty:Отчество не заполнено}
+{last name is empty:Фамилия не заполнена}
+{failed to write user data:Ошибка записи данных пользователя}
+{logout:Выйти}
+{to enter you must enter your credentials:Для входа необходимо ввести Ваши учетные данные}
+{to register, please fill in the form:Для регистрации заполните пожалуйста анкету}
+{to register, please fill in the form:Для регистрации заполните пожалуйста анкету}
+{your credentials:Ваши учетные данные}
+{messages manage:Управление сообщениями}
+{new message:Новое сообщение}
+{your messages:Ваши сообщения}
+{inbox messages:Входящие сообщения}
+{sender:Отправитель}
+{text:Текст}
+{view:Просмотр}
+{messages:Сообщения}
+{no messages:Нет сообщений}
+{new message:Новое сообщение}
+{message:Сообщение}
+{date:Дата}
+{answer:Ответить}
+{adressee:Получатель}
+{send:Отправить}
+{message text is empty:Текст сообщения пустой}
+{mark as read:Отметить как прочитанное}
+{delete message:Удалить сообщение}

@@ -1,0 +1,93 @@
+
+body {
+    width: 70%;
+    margin: auto;
+}
+
+.loginform, .registerform, .messageform {
+    margin: auto;
+}
+
+input, .help, .error, select, textarea{
+    border-radius: 5px;
+}
+
+.help {
+    border: 1px solid lightgreen;
+    background-color: lightgreen;
+    padding: 3px;
+}
+
+.error {
+    border: 1px solid indianred;
+    background-color: indianred;
+    padding: 3px;
+    margin: 3px;
+}
+
+.link {
+    margin: 3px;
+}
+tr {
+    padding: 10px;
+}
+
+.menu{
+    text-align: right;
+    width: 100%;
+}
+
+.server_errors_field {
+    width:30%;
+}
+
+.menu li {
+    display: inline;
+}
+
+.registerform input {
+    width: 95%;
+}
+.registerform textarea {
+    width: 95%;
+}
+
+.foto{
+    margin: 10px;
+    margin-top: 40px;
+}
+.userinfo{
+    margin-top: 50px;
+}
+
+.strong{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.messageform input {
+    width: 95%;
+}
+.messageform textarea {
+    width: 95%;
+}
+
+.messagetable{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.messagetable th {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid black;
+}
+.messagetable td {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.new_message{
+    font-weight: bolder;
+}
